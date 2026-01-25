@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.npy
+*.mat
+*.csv
+*.log
+*.png
+*.jpg
+.ipynb_checkpoints/
+.env
