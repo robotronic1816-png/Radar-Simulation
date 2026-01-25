@@ -44,9 +44,6 @@ fmcw/
 │   └── main.py
 ├── docs/
 │   └── FMCW_Dashboard.gif
-         FMCW_Db.gif
-         FMCW_multi_traget_tracking.gif
-
 ├── README.md
 ├── requirements.txt
 └── .gitignore
