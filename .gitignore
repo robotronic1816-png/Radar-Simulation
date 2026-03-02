@@ -8,3 +8,4 @@ __pycache__/
 *.jpg
 .ipynb_checkpoints/
 .env
+tempCodeRunnerFile.py
